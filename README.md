@@ -82,7 +82,7 @@
 
 ### 📫 আমার সাথে যোগাযোগ করুন
 <p align="center">
-<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="50" width="50"></a>
+<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="50" width="50" style="background-color: whitesmoke;></a>
 <a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="" /></a>
 <a href="https://facebook.com/jeyaul2026"><img src="" /></a>
 </p>
