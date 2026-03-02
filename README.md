@@ -80,13 +80,15 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 ---
 
 ### 📫 Click the icon below to contact me 👇🏻
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="96">
 <a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="80" width="50" ></a>
-<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="img/linkedin-icon-logo-png-transparent.png" height="50" width="50" ></a>
-<a href="https://www.youtube.com/@JeyaulHoque2025"><img src="img/orange-youtube-icon-png-7.png" height="50" width="50"></a>
-<a href="https://x.com/Jeyaul2025"><img src="img/new-xg.png" height="50" width="50"></a>
-<a href="https://facebook.com/jeyaul2026"><img src="img/face.png" height="50" width="50"></a>
-</p>
+
+<td/>
+
+<tr/>
 
 ### My portfolio website
 
