@@ -12,17 +12,16 @@
 
 ---
 
-### 💫 আমার সম্পর্কে (About Me)
-- 👋 হাই, আমি **জাবের**, বাংলাদেশ থেকে একজন প্যাশনেট **ওয়েব ডেভেলপার**।
-- 🚀 আমি একটি ওয়েবসাইট তৈরি করতে যা যা প্রয়োজন—**Frontend থেকে Backend**—সবকিছুতেই দক্ষ।
-- 🛠️ পিক্সেল-পারফেক্ট ডিজাইন এবং ক্লিন কোড লেখা আমার নেশা।
-- 🌍 আমার লক্ষ্য হলো আধুনিক এবং ইউজার-ফ্রেন্ডলি ওয়েব এক্সপেরিয়েন্স তৈরি করা।
+### 💫 (About Me)
+- 👋 Hi, I am **Jeyaul Hoque**, a passionate **web developer** from Bangladesh.
+- 🚀 I can do everything needed to create a website—**from frontend to backend**—alhamdulillah.
+- 🛠️ I love writing pixel-perfect designs and clean code.
+- 🌍 My goal is to create modern and user-friendly web app.
 
 ---
 
-### 🛠️ আমার দক্ষতা (My Tech Stack)
-একটি ওয়েবসাইট তৈরি করতে প্রয়োজনীয় সকল টেকনোলজিতে আমার হাত পাকানো আছে:
-
+### 🛠️ (My Tech Stack)
+Alhamdulillah, I have all the necessary technologies to create a website.
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -72,7 +71,7 @@
 
 ---
 
-### 📊 গিটহাব স্ট্যাটাস (GitHub Stats)
+### 📊 (GitHub Stats)
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyaulhoquebd&theme=radical" alt="Jaber's Streak" />
@@ -88,5 +87,10 @@
 <a href="https://x.com/Jeyaul2025"><img src="img/new-xg.png" height="50" width="50"></a>
 <a href="https://facebook.com/jeyaul2026"><img src="img/face.png" height="50" width="50"></a>
 </p>
+
+### My portfolio website
+
+<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/"><img src="img/myimg.png" height="50" width="50"></a>
+
 
 ---
