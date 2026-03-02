@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=আসসালামু%20আলাইকুম!%20আমি%20জাবের&fontSize=40&animation=fadeIn" width="100%" />
+<img src="img/jjj.png" width="100%" />
 
 # 👨‍💻 Full Stack Web Developer
 ### 🇧🇩 Based in Bangladesh
