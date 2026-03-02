@@ -59,10 +59,10 @@
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
       <br>Figma
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
       <br>VS Code
