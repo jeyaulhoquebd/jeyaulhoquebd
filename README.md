@@ -90,7 +90,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 
 ### My portfolio website
 
-<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/"><img src="img/myimg.png" height="50" width="50"></a>
+<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/"><img src="img/myimg.png"  width="50%"></a>
 
 
 ---
