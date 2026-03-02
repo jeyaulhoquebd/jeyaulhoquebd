@@ -74,7 +74,7 @@
 
 ### 📊 গিটহাব স্ট্যাটাস (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyaulhoquebd&theme=radical" alt="Jaber's Streak" />
 </p>
 
@@ -82,7 +82,7 @@
 
 ### 📫 আমার সাথে যোগাযোগ করুন
 <p align="center">
-<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="50" width="50" style="background-color: whitesmoke;></a>
+<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="50" width="50" ></a>
 <a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="" /></a>
 <a href="https://facebook.com/jeyaul2026"><img src="" /></a>
 </p>
