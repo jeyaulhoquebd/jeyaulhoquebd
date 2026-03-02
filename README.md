@@ -83,8 +83,8 @@
 ### 📫 আমার সাথে যোগাযোগ করুন
 <p align="center">
 <a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="80" width="50" ></a>
-<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="img/linkedin-icon-logo-png-transparent.png" height="40" width="50" ></a>
-<a href="https://facebook.com/jeyaul2026"><img src="img/face.png" height="40" width="50"></a>
+<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="img/linkedin-icon-logo-png-transparent.png" height="50" width="50" ></a>
+<a href="https://facebook.com/jeyaul2026"><img src="img/face.png" height="50" width="50"></a>
 </p>
 
 ---
