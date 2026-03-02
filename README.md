@@ -85,6 +85,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 
 <td align="center" width="96">
 <a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="80" width="50" ></a>
+<br>Gmail
 
 <td/>
 
