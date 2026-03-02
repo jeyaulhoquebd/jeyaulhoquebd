@@ -82,11 +82,9 @@
 
 ### 📫 আমার সাথে যোগাযোগ করুন
 <p align="center">
-<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" /></a>
+<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="" /></a>
+<a href="https://facebook.com/jeyaul2026"><img src="" /></a>
 </p>
 
 ---
-<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=100&section=footer" width="100%" />
-</div>
