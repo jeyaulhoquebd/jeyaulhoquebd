@@ -74,8 +74,8 @@
 
 ### 📊 গিটহাব স্ট্যাটাস (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Jaber's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Jaber's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyaulhoquebd&theme=radical" alt="Jaber's Streak" />
 </p>
 
 ---
