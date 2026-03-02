@@ -84,13 +84,14 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 <tr>
 
 <td align="center" width="96">
-<!-- <a href="mailto:jeyaulhoque2025@email.com"></a> -->
-<img src="img/mail.jpg" height="80" width="50">
+<a href="mailto:jeyaulhoque2025@email.com"><img src="img/mail.jpg" height="80" width="50"></a>
+
 <br>Gmail
 
-<td/>
+</td>
 
-<tr/>
+</tr>
+</table>
 
 ### My portfolio website
 
