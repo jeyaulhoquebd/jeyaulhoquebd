@@ -1,41 +1,92 @@
-# Hi there, I'm Jaber! 👋
+<div align="center">
 
-I'm a passionate **Web Developer** from **Bangladesh** 🇧🇩. I specialize in crafting end-to-end web experiences—from the first line of code to the final deployment. 
+<img src="img/jjj.png" width="100%" />
 
-> "I can do everything it takes to create a website."
+# 👨‍💻 Full Stack Web Developer
+### 🇧🇩 Based in Bangladesh
 
----
-
-### 🛠️ My Tech Stack
-
-| Frontend | Backend & Tools |
-| :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Expert-Web%20Development-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Open%20To-Work-green?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 What I Can Do
-
-* **UI/UX Design Implementation:** Turning designs into responsive, pixel-perfect reality.
-* **Dynamic Functionality:** Writing clean, efficient JavaScript to power user interactions.
-* **Performance Optimization:** Making sure your site runs lightning fast.
-* **Problem Solving:** Debugging and scaling applications.
+### 💫 আমার সম্পর্কে (About Me)
+- 👋 হাই, আমি **জাবের**, বাংলাদেশ থেকে একজন প্যাশনেট **ওয়েব ডেভেলপার**।
+- 🚀 আমি একটি ওয়েবসাইট তৈরি করতে যা যা প্রয়োজন—**Frontend থেকে Backend**—সবকিছুতেই দক্ষ।
+- 🛠️ পিক্সেল-পারফেক্ট ডিজাইন এবং ক্লিন কোড লেখা আমার নেশা।
+- 🌍 আমার লক্ষ্য হলো আধুনিক এবং ইউজার-ফ্রেন্ডলি ওয়েব এক্সপেরিয়েন্স তৈরি করা।
 
 ---
 
-### 💻 A Snippet of My Work
+### 🛠️ আমার দক্ষতা (My Tech Stack)
+একটি ওয়েবসাইট তৈরি করতে প্রয়োজনীয় সকল টেকনোলজিতে আমার হাত পাকানো আছে:
 
-Here is a quick look at how I structure my code:
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
-```javascript
-// A simple function to showcase my logic
-const createWebSolution = (clientNeeds) => {
-  const skills = ['HTML', 'CSS', 'JavaScript', 'Backend'];
-  
-  if (clientNeeds && skills.length > 0) {
-    return "Building your dream website from scratch... 🚀";
-  }
-};
+---
 
-console.log(createWebSolution(true));
+### 📊 গিটহাব স্ট্যাটাস (GitHub Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Jaber's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Jaber's Streak" />
+</p>
+
+---
+
+### 📫 আমার সাথে যোগাযোগ করুন
+<p align="center">
+<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=100&section=footer" width="100%" />
+</div>
