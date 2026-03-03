@@ -59,8 +59,8 @@ Alhamdulillah, I have all the necessary technologies to create a website.
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="img/images.png" width="40" height="40" alt="Adobe Illustrator" />
-      <br>Adobe Illustrator
+      <img src="img/image1s.png" width="40" height="40" alt="Adobe Illustrator" />
+      <br>Illustrator
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode" />
