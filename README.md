@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/jjj.png" width="100%" />
+<img src="img/Screenshot 2026-03-06 112903.png" width="100%" />
 
 # 👨‍💻 Full Stack Web Developer
 ### 🇧🇩 Based in Bangladesh
@@ -109,7 +109,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </td>
 
 <td align="center" width="96">
-<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/"><img src="img/myimg.png" height="40" width="40"></a>
+<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/"><img src="img/sfsadf.png" height="40" width="40"></a>
 <br>portfolio
 </td>
 
