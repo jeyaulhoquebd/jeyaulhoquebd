@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/jeyaulcover2.png" width="100%" />
+<img src="img/jeyabnar.png" width="100%" />
 
 # 👨‍💻 Full Stack Web Developer
 ### 🇧🇩 Based in Bangladesh
