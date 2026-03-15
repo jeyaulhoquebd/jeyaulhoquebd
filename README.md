@@ -76,6 +76,24 @@ Alhamdulillah, I have all the necessary technologies to create a website.
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyaulhoquebd&theme=radical" alt="Jaber's Streak" />
 </p>
+---
+
+### 🏆 (GitHub Achievements)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeyaulhoquebd&theme=radical&no-bg=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 (Contribution Activity)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
