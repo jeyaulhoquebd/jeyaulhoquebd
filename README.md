@@ -70,6 +70,9 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </table>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+and+Next.js+Expert;Open+Source+Contributor;Clean+Code+Enthusiast" alt="Typing SVG" />
+</p>
 
 ### 📊 (GitHub Stats)
 <p align="center">
@@ -88,9 +91,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&color=blueviolet&style=flat-square" alt="Profile Views" />
