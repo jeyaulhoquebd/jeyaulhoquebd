@@ -89,7 +89,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="right">
