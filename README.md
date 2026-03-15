@@ -29,7 +29,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="120" height="120" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
