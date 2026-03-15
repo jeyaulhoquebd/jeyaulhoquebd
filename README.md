@@ -124,7 +124,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </td>
 
 <td align="center" width="96">
-<a href="https://www.youtube.com/@JeyaulHoque2025"><img src="https://skillicons.dev/icons?i=youtube" height="40" width="40"></a>
+<a href="https://www.youtube.com/@JeyaulHoque2025"><img src="img/orange-youtube-icon-png-7.png" height="40" width="40"></a>
 <br>Youtube
 </td>
 
