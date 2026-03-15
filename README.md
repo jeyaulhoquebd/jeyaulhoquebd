@@ -90,9 +90,8 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 
 ---
 
-### 🐍 (Contribution Activity)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg" alt="snake" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
