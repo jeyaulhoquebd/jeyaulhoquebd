@@ -88,7 +88,9 @@ Alhamdulillah, I have all the necessary technologies to create a website.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&color=blueviolet&style=flat-square" alt="Profile Views" />
