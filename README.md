@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="img/ejaf6.gif" alt="Typing SVG" />
+  <img src="img/ejaf6.gif" width="50" height="50" alt="Typing SVG" />
 </p>
 
 ### 🛠️ (My Tech Stack)
