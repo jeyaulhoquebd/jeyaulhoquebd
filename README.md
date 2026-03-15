@@ -114,7 +114,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </td>
 
 <td align="center" width="96">
-<a href="https://facebook.com/jeyaul2026"><img src="img/face.png" height="40" width="40"></a>
+<a href="https://facebook.com/jeyaul2026"><img src="https://skillicons.dev/icons?i=facebook" height="40" width="40" alt="Facebook" /></a>
 <br>Facebook
 </td>
 
