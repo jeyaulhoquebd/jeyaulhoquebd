@@ -20,6 +20,10 @@
 
 ---
 
+<p align="center">
+  <img src="img/ejaf6.gif" alt="Typing SVG" />
+</p>
+
 ### 🛠️ (My Tech Stack)
 Alhamdulillah, I have all the necessary technologies to create a website.
 <table align="center">
