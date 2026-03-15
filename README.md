@@ -109,7 +109,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </td>
 
 <td align="center" width="96">
-<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="img/linkedin-icon-logo-png-transparent.png" height="40" width="40"></a>
+<a href="https://linkedin.com/in/jeyaul-hoque-7128a73a7"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40"></a>
 <br>Linkedin
 </td>
 
@@ -119,12 +119,12 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </td>
 
 <td align="center" width="96">
-<a href="https://x.com/Jeyaul2025"><img src="img/new-xg.png" height="40" width="40"></a>
+<a href="https://x.com/Jeyaul2025"><img src="https://skillicons.dev/icons?i=twitter" height="40" width="40"></a>
 <br>X
 </td>
 
 <td align="center" width="96">
-<a href="https://www.youtube.com/@JeyaulHoque2025"><img src="img/orange-youtube-icon-png-7.png" height="40" width="40"></a>
+<a href="https://www.youtube.com/@JeyaulHoque2025"><img src="https://skillicons.dev/icons?i=youtube" height="40" width="40"></a>
 <br>Youtube
 </td>
 
