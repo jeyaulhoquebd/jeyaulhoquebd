@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="img/ejaf6.gif" width="50" height="50" alt="Typing SVG" />
+  <img src="img/ejaf6.gif" width="150" height="150" alt="Typing SVG" />
 </p>
 
 ### 🛠️ (My Tech Stack)
@@ -29,7 +29,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html"  width="100%" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
