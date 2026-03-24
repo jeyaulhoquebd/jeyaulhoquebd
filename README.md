@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="img/bener.png" width="100%" />
+<p align="center">
+  <img src="img/ejaf6.gif" width="500" height="500" alt="Typing SVG" />
+</p>
 
 # 👨‍💻 Full Stack Web Developer
 ### 🇧🇩 Based in Bangladesh
@@ -20,9 +22,7 @@
 
 ---
 
-<p align="center">
-  <img src="img/ejaf6.gif" width="500" height="500" alt="Typing SVG" />
-</p>
+
 
 ### 🛠️ (My Tech Stack)
 Alhamdulillah, I have all the necessary technologies to create a website.
