@@ -85,21 +85,7 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </p>
 ---
 
-### 🏆 (GitHub Achievements)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeyaulhoquebd&theme=radical&no-bg=true" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=radical" />
-</p>
-
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
