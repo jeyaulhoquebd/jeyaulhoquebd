@@ -85,31 +85,6 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </p>
 ---
 
----
-
-### 🔥 GitHub Streak & Activity
-<p align="center">
-  <img src="https://herokuapp.com" width="48%" alt="GitHub Streak" />
-  <img src="https://vercel.app" width="48%" alt="Activity Summary" />
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
----
-
-### 📈 Weekly Development Activity
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Wakatime Activity" />
-</p>
-
----
 
 ---
 
