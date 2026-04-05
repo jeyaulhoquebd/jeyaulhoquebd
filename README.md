@@ -85,6 +85,19 @@ Alhamdulillah, I have all the necessary technologies to create a website.
 </p>
 ---
 
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="43%" alt="Top Languages" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 
 ---
