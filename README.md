@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00D1B2&height=250&section=header&text=Jeyaul%20Hoque&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+<p align="center">
+  <img src="img/ejaf6.gif" width="500" height="500" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%26+Next.js+Expert;Creative+UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" />
