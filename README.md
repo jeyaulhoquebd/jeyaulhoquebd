@@ -5,7 +5,7 @@
 </p>
 
 # MERN-Stack Web Developer
-### 🇧🇩 Based in Bangladesh
+###  Based in Bangladesh
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expert-Web%20Development-blue?style=for-the-badge&logo=codeforces" />
