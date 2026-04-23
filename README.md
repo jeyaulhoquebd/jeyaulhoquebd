@@ -4,7 +4,7 @@
   <img src="img/ejaf6.gif" width="500" height="500" alt="Typing SVG" />
 </p>
 
-# 👨‍💻 Full Stack Web Developer
+# MERN-Stack Web Developer
 ### 🇧🇩 Based in Bangladesh
 
 <p align="center">
