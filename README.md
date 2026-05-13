@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="img/githubing.png" width="1200" height="1200" alt="Typing SVG" />
+  <img src="img/banar.jpg" width="1200" height="1200" alt="Typing SVG" />
 </p>
 
 # MERN-Stack Web Developer
