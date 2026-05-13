@@ -78,11 +78,11 @@ Alhamdulillah, I have all the necessary technologies to create a website.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+and+Next.js+Expert;Open+Source+Contributor;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 📊 (GitHub Stats)
+<!-- ### 📊 (GitHub Stats)
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=radical" alt="Jaber's Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeyaulhoquebd&theme=radical" alt="Jaber's Streak" />
-</p>
+</p> -->
 
 
 
