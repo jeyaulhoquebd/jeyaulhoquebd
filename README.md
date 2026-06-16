@@ -171,15 +171,8 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 ---
 
-## 🤝 Open Source Contributions
 
-<div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=jeyaulhoquebd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
----
 
 ## 📫 Connect with Me
 
@@ -228,15 +221,7 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 <div align="center">
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeyaulhoquebd/jeyaulhoquebd/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
