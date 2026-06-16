@@ -87,21 +87,7 @@ const jeyaul: Developer = {
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-| 🏗️ Project | 🔧 Stack | 📝 Description | 🔗 Links |
-|---|---|---|---|
-| **🛒 ShopHive** | React, Node, MongoDB, Stripe | Full-featured e-commerce platform with real-time inventory, auth, and payment gateway | [Live](#) · [Repo](#) |
-| **💬 ChatFlow** | React, Socket.io, Express | Real-time messaging app with rooms, online indicators, and media sharing | [Live](#) · [Repo](#) |
-| **📋 TaskMaster** | Next.js, Tailwind, MongoDB | Drag-and-drop Kanban board with auth, team collaboration, and analytics | [Live](#) · [Repo](#) |
-| **🍕 FoodHub** | MERN Stack, JWT, Cloudinary | Restaurant ordering platform with live order tracking and admin dashboard | [Live](#) · [Repo](#) |
-| **📊 DevDash** | React, Chart.js, REST API | Developer analytics dashboard with GitHub integration and productivity metrics | [Live](#) · [Repo](#) |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -123,15 +109,7 @@ const jeyaul: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeyaulhoquebd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
-
-</div>
-
----
 
 ## 📈 My Coding Journey
 
