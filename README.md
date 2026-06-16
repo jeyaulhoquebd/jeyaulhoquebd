@@ -201,15 +201,7 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 
 
----
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
