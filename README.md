@@ -176,11 +176,11 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://jeyaulhoquebd.github.io/jeyaul-hoque/">
+<a href="https://jeyaulhoque.pages.dev/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://dev.to/jeyaul">
+<a href="https://dev.to/jeyaul_hoque">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
