@@ -93,13 +93,13 @@ const jeyaul: Developer = {
 
 ## 🚀 Notable Projects
 
-| Project | Description | Tech Stack | Live Demo |
+| Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **JTweet** | Full-stack Twitter-like social platform with real-time features | React, Node.js, MongoDB, Socket.io | [Visit](https://github.com/jeyaulhoquebd/JTweet) |
-| **Jeya-ul-Time** | Productivity hub with clock, timer, notes, and website blocker | HTML, CSS, JavaScript | [Visit](https://github.com/jeyaulhoquebd/Jeya-ul-Time) |
-| **Payoo Project** | Mobile banking application UI/UX | React, TailwindCSS | [Visit](https://github.com/jeyaulhoquebd/payoo-project-) |
-| **Job Application Tracker** | Track and manage job applications efficiently | React, Firebase | [Visit](https://github.com/jeyaulhoquebd/Job-Application-Tracker) |
-| **Claude Python Project** | AI-powered Python projects built with Claude AI | Python, Claude API | [Visit](https://github.com/jeyaulhoquebd/claude-python-project) |
+| **JTweet** | Full-stack Twitter-like social platform with real-time features | React, Node.js, MongoDB, Socket.io | [View](https://github.com/jeyaulhoquebd/JTweet) |
+| **Jeya-ul-Time** | Productivity hub with clock, timer, notes, and website blocker | HTML, CSS, JavaScript | [View](https://github.com/jeyaulhoquebd/Jeya-ul-Time) |
+| **Payoo Project** | Mobile banking application UI/UX | React, TailwindCSS | [View](https://github.com/jeyaulhoquebd/payoo-project-) |
+| **Job Application Tracker** | Track and manage job applications efficiently | React, Firebase | [View](https://github.com/jeyaulhoquebd/Job-Application-Tracker) |
+| **Claude Python Project** | AI-powered Python projects built with Claude AI | Python, Claude API | [View](https://github.com/jeyaulhoquebd/claude-python-project) |
 
 ---
 
@@ -107,19 +107,21 @@ const jeyaul: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&cache_seconds=86400" alt="GitHub Stats" />
+### 📈 Overall Stats
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E0AAFF&card_width=400)
 
-&nbsp;&nbsp;
+### 🔝 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0AAFF)
 
-<br/>
+### 🔥 Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jeyaulhoquebd&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideNums=A78BFA&dates=94A3B8" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=jeyaulhoquebd&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideNums=A78BFA)
 
-<br/><br/>
+### 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 </div>
 
@@ -129,10 +131,22 @@ const jeyaul: Developer = {
 
 ```
 2022  ┤▓░░░░░░░░░  Web Foundation — HTML5, CSS3, Static Sites
-2023  ┤▓▓▓▓░░���░░░  JavaScript Era — DOM, ES6, Basic React
+2023  ┤▓▓▓▓░░░░░░  JavaScript Era — DOM, ES6, Basic React
 2024  ┤▓▓▓▓▓▓▓░░░  MERN Master — Full Stack, Node.js, MongoDB, APIs
 2025  ┤▓▓▓▓▓▓▓▓▓░  Advanced Skills — Next.js, TypeScript, Socket.io, Design Systems
 2026  ┤▓▓▓▓▓▓▓▓▓▓  Production Ready — Cloud Deployments, Docker, Open Source ← NOW
+```
+
+---
+
+## 📅 Weekly Dev Breakdown
+
+```text
+JavaScript   ████████████░░░░░░░░░  48.3%
+React/JSX    ███████░░░░░░░░░░░░░░  27.6%
+CSS/Tailwind ████░░░░░░░░░░░░░░░░░  14.2%
+Node.js      ██░░░░░░░░░░░░░░░░░░░   7.1%
+MongoDB      █░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 ---
@@ -154,7 +168,7 @@ const jeyaul: Developer = {
 
 <div align="center">
 
-**Frontend** · **Backend** · **Database Design** · **UI/UX Fundamentals** · **API Development** · **Real-time Features** · **Performance Optimization** · **Responsive Design** · **Code Architecture** · **Problem Solving**
+**Frontend Development** · **Backend Architecture** · **Database Design** · **UI/UX Fundamentals** · **API Development** · **Real-time Features** · **Performance Optimization** · **Responsive Design** · **Clean Code** · **Problem Solving**
 
 </div>
 
