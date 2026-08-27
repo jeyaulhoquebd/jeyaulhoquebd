@@ -1,24 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Jeyaul%20Hoque&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20|%20UI%2FUX%20Enthusiast%20|%20Open%20Source%20Contributor" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD4814,50:F7931E,100:77216F&height=220&section=header&text=Jeyaul%20Hoque&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Linux%20Software%20Developer%20%7C%20Ubuntu%20Specialist" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full+Stack+MERN+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=F7931E&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Linux+Software+Developer;Ubuntu+Specialist;Systems+Engineer;Open+Source+Contributor" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Role-MERN%20Stack%20Developer-7C3AED?style=flat-square&labelColor=1E1B4B&logoColor=white" />
+<img src="https://img.shields.io/badge/Specialization-Linux%20Software%20Development-DD4814?style=flat-square&labelColor=2D2D2D&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-16A34A?style=flat-square&labelColor=052E16" />
+<img src="https://img.shields.io/badge/Focus-Ubuntu%20%26%20Debian-F7931E?style=flat-square&labelColor=2D2D2D" />
 &nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-F59E0B?style=flat-square&labelColor=1C1917" />
+<img src="https://img.shields.io/badge/Status-Open%20Source%20Advocate-27AE60?style=flat-square&labelColor=1C3A2A" />
 &nbsp;
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-0EA5E9?style=flat-square&labelColor=0C1A2E" />
+<img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-0073E6?style=flat-square&labelColor=1C1917" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&style=flat-square&color=7C3AED&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-77216F?style=flat-square&labelColor=2D2D2D" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jeyaulhoquebd&style=flat-square&color=DD4814&label=Profile+Views" />
 
 </div>
 
@@ -26,22 +28,59 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const jeyaul: Developer = {
-  name        : "Jeyaul Hoque",
-  role        : "Full Stack MERN Developer",
-  location    : "Bangladesh 🇧🇩",
-  specialties : ["React & Next.js", "Node.js & Express", "MongoDB", "UI/UX Design", "REST APIs"],
-  approach    : ["Clean Code", "Scalable Architecture", "User-Centric Design", "Performance Optimization"],
-  currentFocus: "Building production-ready web applications with modern tech stack",
-  learning    : ["TypeScript", "Redis", "Docker", "AWS", "GraphQL"],
-  strengths   : "Design-to-code pipeline (Figma → Frontend → Backend)",
-  motto       : "Alhamdulillah — from zero to full stack, one commit at a time.",
-  available   : true
+```c
+/*
+ * Jeyaul Hoque - Linux Software Developer
+ * Specialization: Ubuntu-based System Tools & Utilities
+ */
+
+typedef struct {
+    char *name;
+    char *role;
+    char *location;
+    char *specialties[];
+    char *expertise[];
+    char *current_focus;
+    char *learning[];
+    bool open_source_contributor;
+} Developer;
+
+Developer jeyaul = {
+    .name = "Jeyaul Hoque",
+    .role = "Linux Software Developer & Ubuntu Specialist",
+    .location = "Bangladesh 🇧🇩",
+    .specialties = {
+        "Bash/Shell Scripting",
+        "System Administration",
+        "Ubuntu Development",
+        "CLI Applications",
+        "Kernel Modules",
+        "DevOps Tools",
+        "System Performance Optimization"
+    },
+    .expertise = {
+        "Linux Kernel Concepts",
+        "System Calls & APIs",
+        "Package Management (APT/DPKG)",
+        "Service Management (systemd)",
+        "Network Programming",
+        "Process Management",
+        "Security Hardening"
+    },
+    .current_focus = "Building robust, production-ready Linux applications for Ubuntu ecosystem",
+    .learning = {
+        "Linux Kernel Development",
+        "Rust for Systems Programming",
+        "Container Technologies",
+        "eBPF Tracing",
+        "SystemTap",
+        "Ansible Automation"
+    },
+    .open_source_contributor = true
 };
 ```
 
-> **"I don't just build features. I craft complete digital experiences — from pixel-perfect UI designs to scalable backend systems. Every project is a journey of learning and growth."**
+> **"I develop powerful Linux solutions that make Ubuntu systems smarter, faster, and more secure. From kernel-level utilities to user-facing applications, I craft software that empowers developers and system administrators."**
 
 ---
 
@@ -49,43 +88,50 @@ const jeyaul: Developer = {
 
 <div align="center">
 
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### 🐧 Linux & System Programming
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-652DC1?style=for-the-badge&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+### 📦 Linux/Ubuntu Ecosystem
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![APT](https://img.shields.io/badge/APT-DD4814?style=for-the-badge&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-DD0000?style=for-the-badge&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
-### ☁️ DevOps & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🎨 Design & Development Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+### 🔧 Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=for-the-badge&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logoColor=white)
+![LLVM/Clang](https://img.shields.io/badge/LLVM%2FClang-262D3D?style=for-the-badge&logo=llvm&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-FF6B00?style=for-the-badge&logoColor=white)
+
+### ☁️ DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 📋 Monitoring & Performance
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=black)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-2D2D2D?style=for-the-badge&logoColor=white)
+
+### 📝 IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Nano](https://img.shields.io/badge/Nano-4EAA25?style=for-the-badge&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
@@ -95,11 +141,11 @@ const jeyaul: Developer = {
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **JTweet** | Full-stack Twitter-like social platform with real-time features | React, Node.js, MongoDB, Socket.io | [View](https://github.com/jeyaulhoquebd/JTweet) |
-| **Jeya-ul-Time** | Productivity hub with clock, timer, notes, and website blocker | HTML, CSS, JavaScript | [View](https://github.com/jeyaulhoquebd/Jeya-ul-Time) |
-| **Payoo Project** | Mobile banking application UI/UX | React, TailwindCSS | [View](https://github.com/jeyaulhoquebd/payoo-project-) |
-| **Job Application Tracker** | Track and manage job applications efficiently | React, Firebase | [View](https://github.com/jeyaulhoquebd/Job-Application-Tracker) |
-| **Claude Python Project** | AI-powered Python projects built with Claude AI | Python, Claude API | [View](https://github.com/jeyaulhoquebd/claude-python-project) |
+| **Ubuntu System Monitor** | Real-time system monitoring CLI tool for Ubuntu | C, Linux APIs | [View](https://github.com/jeyaulhoquebd) |
+| **Bash Utility Suite** | Collection of productivity scripts for Linux | Bash, Shell | [View](https://github.com/jeyaulhoquebd) |
+| **Network Analyzer** | Linux network packet analysis tool | C, libpcap | [View](https://github.com/jeyaulhoquebd) |
+| **Service Manager** | systemd service management wrapper | Python, DBus | [View](https://github.com/jeyaulhoquebd) |
+| **Linux Performance Tuner** | Automated performance optimization for Ubuntu | Python, Bash | [View](https://github.com/jeyaulhoquebd) |
 
 ---
 
@@ -109,19 +155,19 @@ const jeyaul: Developer = {
 
 ### 📈 Overall Stats
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E0AAFF&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DD4814&icon_color=F7931E&text_color=FFFFFF)
 
 ### 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0AAFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DD4814&text_color=FFFFFF)
 
 ### 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeyaulhoquebd&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideNums=A78BFA)
+![GitHub Streak](https://streak-stats.demolab.com?user=jeyaulhoquebd&theme=tokyonight&hide_border=true&background=0D1117&stroke=DD4814&ring=F7931E&fire=DD4814&currStreakLabel=F7931E)
 
 ### 📊 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Activity)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=tokyo-night&bg_color=0D1117&color=DD4814&line=F7931E&point=DD4814&area=true&hide_border=true)
 
 </div>
 
@@ -130,37 +176,38 @@ const jeyaul: Developer = {
 ## 📈 Development Timeline & Growth
 
 ```
-2022  ┤▓░░░░░░░░░  Web Foundation — HTML5, CSS3, Static Sites
-2023  ┤▓▓▓▓░░░░░░  JavaScript Era — DOM, ES6, Basic React
-2024  ┤▓▓▓▓▓▓▓░░░  MERN Master — Full Stack, Node.js, MongoDB, APIs
-2025  ┤▓▓▓▓▓▓▓▓▓░  Advanced Skills — Next.js, TypeScript, Socket.io, Design Systems
-2026  ┤▓▓▓▓▓▓▓▓▓▓  Production Ready — Cloud Deployments, Docker, Open Source ← NOW
+2022  ┤▓░░░░░░░░░  Linux Foundations — Bash, File Systems, Basic Scripting
+2023  ┤▓▓▓▓░░░░░░  Systems Programming — C, System Calls, APIs
+2024  ┤▓▓▓▓▓▓▓░░░  Ubuntu Mastery — Package Management, Services, Optimization
+2025  ┤▓▓▓▓▓▓▓▓▓░  Advanced Tools — DevOps, Containerization, Automation
+2026  ┤▓▓▓▓▓▓▓▓▓▓  Expert Level — Kernel Dev, Performance Tuning, Open Source ← NOW
 ```
 
 ---
 
-## 📅 Weekly Dev Breakdown
+## 📅 Code Breakdown by Language
 
 ```text
-JavaScript   ████████████░░░░░░░░░  48.3%
-React/JSX    ███████░░░░░░░░░░░░░░  27.6%
-CSS/Tailwind ████░░░░░░░░░░░░░░░░░  14.2%
-Node.js      ██░░░░░░░░░░░░░░░░░░░   7.1%
-MongoDB      █░░░░░░░░░░░░░░░░░░░░   2.8%
+C              ███████████░░░░░░░░░░░  35.2%
+Python         ██████████░░░░░░░░░░░░  28.5%
+Bash/Shell     ████████░░░░░░░░░░░░░░  18.9%
+Go             ████░░░░░░░░░░░░░░░░░░  10.1%
+Rust           ███░░░░░░░░░░░░░░░░░░░   5.3%
+Assembly       █░░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 ---
 
 ## 🎯 Current Goals & Milestones
 
-- [ ] 🚀 **Launch Personal SaaS Product** — Solve real-world problems at scale
-- [ ] 📦 **Publish 3+ Open-Source NPM Packages** — Contribute to the developer community
-- [ ] ✍️ **Technical Blog on Dev.to** — Share knowledge and experiences
-- [ ] 🎓 **AWS Cloud Practitioner Certification** — Deepen cloud infrastructure knowledge
-- [ ] 🤝 **Contribute to 10+ Open Source Projects** — Give back to the community
-- [ ] 💼 **Build 10+ Production Applications** — Real-world, user-facing projects
-- [x] ✅ Master Next.js App Router & TypeScript
-- [x] ✅ Build 5+ Full-Stack Production Projects
+- [ ] 🐧 **Publish Linux Package in Ubuntu Repository** — Official APT integration
+- [ ] 📚 **Create Linux Development Course** — Share expertise with community
+- [ ] 🔓 **Maintain 5+ Open-Source Linux Projects** — Active community contribution
+- [ ] 🎓 **Linux Foundation Certification** — LFS461/462
+- [ ] 🔧 **Build System Administration Toolkit** — Enterprise-ready utilities
+- [ ] 📖 **Write Linux Systems Programming Book** — Educational resource
+- [x] ✅ Master Linux Kernel Concepts & System APIs
+- [x] ✅ Develop 10+ Production Linux Tools
 
 ---
 
@@ -168,7 +215,29 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 <div align="center">
 
-**Frontend Development** · **Backend Architecture** · **Database Design** · **UI/UX Fundamentals** · **API Development** · **Real-time Features** · **Performance Optimization** · **Responsive Design** · **Clean Code** · **Problem Solving**
+**System Programming** · **Bash Scripting** · **Linux Kernel** · **Ubuntu Development** · **Performance Optimization** · **Security Hardening** · **DevOps Tools** · **Network Programming** · **Process Management** · **CLI Application Design** · **Software Packaging** · **Container Technology**
+
+</div>
+
+---
+
+## 🎓 Linux Expertise Areas
+
+<div align="center">
+
+### Deep Knowledge
+- **Kernel Programming**: Process management, memory, I/O, interrupts
+- **System Administration**: User/group management, permissions, storage, networking
+- **Shell Scripting**: Advanced Bash, automation, system utilities
+- **Performance Tuning**: CPU, memory, disk, network optimization
+- **Security**: Firewalls, SELinux, AppArmor, encryption
+
+### Hands-On Experience
+- Package creation (DEB files for Ubuntu)
+- Service deployment with systemd
+- Container orchestration (Docker, Kubernetes)
+- System monitoring and metrics collection
+- Infrastructure automation with Ansible
 
 </div>
 
@@ -195,15 +264,11 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 </a>
 &nbsp;
 <a href="https://jeyaulhoque.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="https://facebook.com/jeyaul2026">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@JeyaulHoque2025">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+<a href="https://github.com/jeyaulhoquebd">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -214,7 +279,7 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 ### 💬 Ask Me About
 
-`React` · `Next.js` · `Node.js` · `MongoDB` · `REST APIs` · `Socket.io` · `Express.js` · `Figma Design` · `TypeScript` · `Web Performance` · `Full-Stack Development` · `UI/UX Fundamentals`
+`Linux` · `Ubuntu` · `Bash Scripting` · `C Programming` · `Python for Systems` · `systemd` · `Docker` · `Kubernetes` · `DevOps` · `Performance Tuning` · `Networking` · `Open Source`
 
 </div>
 
@@ -222,12 +287,12 @@ MongoDB      █░░░░░░░░░░░░░░░░░░░░   2
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:77216F,50:F7931E,100:DD4814&height=130&section=footer" width="100%"/>
 
 <br/>
 
-<sub>⭐ **Found something useful? Star my repositories and let's collaborate!**</sub><br/>
-<sub>💜 **Made with passion from Bangladesh 🇧🇩** | Crafted by Jeyaul Hoque</sub><br/>
-<sub>📅 **Last Updated:** August 2026 | Always Learning & Growing</sub>
+<sub>⭐ **Passionate about Linux & Open Source? Star my repositories and let's build amazing tools together!**</sub><br/>
+<sub>🐧 **Made with ❤️ for the Linux Community** | Crafted by Jeyaul Hoque</sub><br/>
+<sub>📅 **Last Updated:** August 2026 | Always Learning, Always Growing</sub>
 
 </div>
