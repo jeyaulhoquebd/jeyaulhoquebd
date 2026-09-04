@@ -114,12 +114,12 @@ const jeyaul = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&text_color=e2e8f0"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&text_color=e2e8f0"/> -->
 
 <img src="https://streak-stats.demolab.com?user=jeyaulhoquebd&theme=nord&hide_border=true&background=1e293b&stroke=0284c7&ring=06b6d4&fire=0891b2" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=nord&bg_color=1e293b&color=0284c7&line=06b6d4&point=0891b2&area=true&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyaulhoquebd&theme=nord&bg_color=1e293b&color=0284c7&line=06b6d4&point=0891b2&area=true&hide_border=true" width="100%"/> -->
 
 </div>
 
