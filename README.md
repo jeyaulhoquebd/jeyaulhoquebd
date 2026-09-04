@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=220&section=header&text=Jeyaul%20Hoque&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=MERN%20Developer%20%7C%20AI-Assisted%20Linux%20Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=220&section=header&text=Jeyaul%20Hoque&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20AI-Assisted%20Linux%20Builder&descAlignY=51&descAlign=62" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=06b6d4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=MERN-Stack%20Developer;React%20%26%20Next.js%20Engineer;AI-Powered%20Linux%20Tool%20Builder;Ubuntu%20Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=06b6d4&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Full-Stack%20MERN%20Developer;AI-Assisted%20Linux%20Tools%20Builder;React%20%7C%20Node.js%20%7C%20MongoDB%20Expert;Building%20Beautiful%2C%20Scalable%20Software" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -83,7 +83,7 @@ const developer = {
 };
 ```
 
-> **"I craft beautiful, performant web applications and ship powerful AI-assisted Linux tools. Whether building responsive React frontends, scalable Node backends, or system-level Ubuntu utilities—I deliver software that empowers users and developers alike."**
+> **"I craft beautiful, performant web applications and ship powerful AI-assisted Linux tools. Whether building responsive React frontends, scalable Node backends, or system-level Ubuntu utilities, I'm committed to writing clean, efficient, and maintainable code."**
 
 ---
 
@@ -136,16 +136,16 @@ const developer = {
 
 ---
 
-## 🚀 Notable Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Type |
-|---------|-------------|-----------|------|
-| **E-Commerce Platform** | Full-stack MERN marketplace with payment integration | React, Node.js, MongoDB, Stripe | Web App |
-| **Task Management Dashboard** | Real-time collaborative task management app | Next.js, TypeScript, Tailwind, Firebase | Web App |
-| **Blog & Portfolio Generator** | Headless CMS for content creators | Next.js, MongoDB, REST API | Web App |
-| **Linux System Monitor** | Real-time CLI monitoring tool for Ubuntu | Bash, C, Linux APIs | Linux Tool |
-| **Ubuntu Utility Suite** | Collection of productivity scripts and services | Bash, Shell, systemd | Linux Tool |
-| **Package Manager CLI** | Custom package management wrapper with APT/DPKG | Python, Bash | Linux Tool |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **[Jeyaul-Savings](https://github.com/jeyaulhoquebd/Jeyaul-Savings)** | Full-stack savings & expense tracker | React, Node.js, MongoDB, TypeScript | ✅ Active |
+| **[JTweet](https://github.com/jeyaulhoquebd/JTweet)** | Twitter-like social media platform | Next.js, TypeScript, MongoDB | 🚀 In Development |
+| **[Freedom Web App](https://github.com/jeyaulhoquebd/Freedom-web-app)** | Digital wellness & productivity suite | TypeScript, React, Vercel | ✅ Deployed |
+| **[Ubuntu System Monitor](https://github.com/jeyaulhoquebd/ubuntu-system-monitor)** | Real-time CLI monitoring tool | C, Linux APIs | ✅ Complete |
+| **[Smart Clipboard Manager](https://github.com/jeyaulhoquebd/smart-clipboard-manager)** | Advanced clipboard management utility | Python, Linux | ✅ Active |
+| **[Claude Python Project](https://github.com/jeyaulhoquebd/claude-python-project)** | AI-assisted Python projects collection | Python, Claude AI | 📚 Educational |
 
 ---
 
@@ -155,11 +155,11 @@ const developer = {
 
 ### 📈 Overall Stats
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0&card_width=500)
 
 ### 🔝 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&text_color=e2e8f0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=0284c7&text_color=e2e8f0&card_width=500)
 
 ### 🔥 Contribution Streak
 
@@ -224,7 +224,7 @@ CSS/HTML       ██░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-**Full-Stack Web Development** · **React & Next.js** · **Node.js & Express.js** · **MongoDB** · **REST APIs** · **TypeScript** · **Responsive UI/UX** · **Bash Scripting** · **Linux System Tools** · **AI-Assisted Development** · **Ubuntu Specialist** · **DevOps Basics** · **Git & GitHub** · **Performance Optimization**
+**Full-Stack Web Development** · **React & Next.js** · **Node.js & Express.js** · **MongoDB** · **REST APIs** · **TypeScript** · **Responsive UI/UX** · **Bash Scripting** · **Linux System Programming** · **CLI Development** · **AI-Assisted Coding**
 
 </div>
 
@@ -258,7 +258,25 @@ CSS/HTML       ██░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 📫 Let's Connect
+## 📚 Latest Blog & Articles
+
+- 📝 [Building MERN Applications with TypeScript](https://dev.to/jeyaul_hoque)
+- 🐧 [Linux System Programming Best Practices](https://dev.to/jeyaul_hoque)
+- 🤖 [AI-Assisted Development Workflow](https://dev.to/jeyaul_hoque)
+
+---
+
+## 🌟 Highlights & Achievements
+
+- 🎯 **40+ Projects** across web development and Linux tools
+- 💼 **3+ Years** of professional development experience
+- 🌍 **Global Community** engagement and open-source contributions
+- 🏆 **Performance-Focused** development with optimization expertise
+- 🤝 **Collaborative** approach to problem-solving and team projects
+
+---
+
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -286,17 +304,60 @@ CSS/HTML       ██░░░░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+💬 **Ask Me About**
 
-<div align="center">
-
-### 💬 Ask Me About
-
-`React` · `Next.js` · `Node.js` · `MongoDB` · `TypeScript` · `MERN Stack` · `REST APIs` · `Tailwind CSS` · `Linux` · `Bash Scripting` · `Ubuntu` · `systemd` · `CLI Tools` · `AI-Assisted Development` · `DevOps` · `Web Performance`
+`React` · `Next.js` · `Node.js` · `MongoDB` · `TypeScript` · `MERN Stack` · `REST APIs` · `Tailwind CSS` · `Linux` · `Bash Scripting` · `Ubuntu` · `systemd` · `CLI Tools` · `AI-Assisted Development`
 
 </div>
+
+---
+
+## 🚀 Repository Organization
+
+My repositories are organized by category:
+
+### 🌐 Web Applications & Projects
+- **Jeyaul-Savings** - Expense tracking platform
+- **JTweet** - Social media platform
+- **Freedom-web-app** - Wellness & productivity
+- **barakah-desk** - Productivity hub
+
+### 🐧 Linux & System Tools
+- **ubuntu-system-monitor** - Real-time monitoring CLI
+- **smart-clipboard-manager** - Clipboard utility
+- **bangla-ibus** - Bangla language support
+
+### 🎓 Learning & Educational
+- **claude-python-project** - AI-assisted Python projects
+- **es6-intro** - JavaScript ES6 learning
+- **My-class-lab-py-code** - Python tutorials
+
+### 🛠️ Tools & Utilities
+- **control-yourself-blocker** - Website blocker
+- **focus-mode-time** - Productivity timer
+- **feed-hider** - Social media feed controller
+
+---
+
+## 💻 Setup & Getting Started
+
+### For Web Projects
+```bash
+git clone https://github.com/jeyaulhoquebd/[project-name]
+cd [project-name]
+npm install
+npm run dev
+```
+
+### For Linux Tools
+```bash
+git clone https://github.com/jeyaulhoquebd/[project-name]
+cd [project-name]
+chmod +x install.sh
+./install.sh
+```
 
 ---
 
@@ -307,7 +368,9 @@ CSS/HTML       ██░░░░░░░░░░░░░░░░░░░�
 <br/>
 
 <sub>⭐ **Building amazing web apps and powerful Linux tools with a blend of React, Node.js, and AI-assisted development. Star my repositories and let's create something great together!**</sub><br/>
-<sub>💻 **Bridging Web Development and System Software** | Crafted by Jeyaul Hoque</sub><br/>
-<sub>📅 **Last Updated:** August 2026 | Always Learning, Always Building</sub>
+
+<sub>💻 **Bridging Web Development and System Software** | Crafted with ❤️ by Jeyaul Hoque</sub><br/>
+
+<sub>📅 **Last Updated:** September 2026 | Always Learning, Always Building 🚀</sub>
 
 </div>
