@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=220&section=header&text=Jeyaul%20Hoque&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=MERN%20Developer%20%7C%20AI%20Linux%20Builder&descSize=18&descColor=E0F2FE" alt="Jeyaul Hoque banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=220&section=header&text=Jeyaul%20Hoque&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20Linux%20Builder&descAlignY=54&descColor=E2E8F0" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=06B6D4&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+MERN+Developer;AI-Assisted+Linux+Builder;Building+clean+web+apps+and+smart+CLI+tools" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=06B6D4&center=true&vCenter=true&width=720&height=40&lines=Full-Stack+MERN+Developer;AI-Assisted+Linux+Builder;Clean+Product+Thinker;Shipping+Useful+Tools" />
 
 <br/>
 
@@ -28,10 +28,10 @@
 
 I build two kinds of products:
 
-- polished, production-ready MERN web applications
-- AI-assisted Linux and Ubuntu tools that make the command line smarter and faster
+- polished, production-ready MERN applications
+- AI-assisted Linux and Ubuntu tools that make the terminal more useful
 
-My focus is on creating clean, scalable, user-friendly digital experiences while also exploring the systems side of software engineering.
+I enjoy turning ideas into practical software that feels clean, fast, and easy to use. My work sits at the intersection of web development, system thinking, and developer tooling.
 
 ```javascript
 const jeyaul = {
@@ -109,7 +109,7 @@ const jeyaul = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=0f172a&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeyaulhoquebd&show_icons=true&theme=nord&hide_border=true&bg_color=0f172a&title_color=0284c7&icon_color=06b6d4&text_color=e2e8f0&rank_icon=github" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaulhoquebd&layout=compact&theme=nord&hide_border=true&bg_color=0f172a&title_color=0284c7&text_color=e2e8f0" />
 
 <img src="https://streak-stats.demolab.com?user=jeyaulhoquebd&theme=nord&hide_border=true&background=0f172a&stroke=0284c7&ring=06b6d4&fire=0891b2&currStreakLabel=06b6d4" />
@@ -167,6 +167,6 @@ const jeyaul = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:06b6d4,100:0891b2&height=110&section=footer" width="100%" />
 
-<sub>Building web apps and Linux tools with React, Node.js, and a healthy dose of AI-assisted development. ⭐ Star a repo and let’s build something useful together.</sub>
+<sub>Building useful web apps and smarter Linux tools with React, Node.js, and a healthy dose of AI-assisted development. ⭐ Star a repo and let’s build something valuable together.</sub>
 
 </div>
