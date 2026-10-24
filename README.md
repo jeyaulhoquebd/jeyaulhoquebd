@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=180&section=header&text=Jeyaul%20Hoque&fontSize=58&fontColor=FFFFFF&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20Builder%20of%20Practical%20Tools&descFontSize=22&descFontColor=E0F2FE" alt="Jeyaul Hoque banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:0284c7&height=180&section=header&text=Jeyaul%20Hoque&fontSize=58&fontColor=FFFFFF&fontAlignY=30&desc=Full-Stack%20Developer&fontSize=28&descAlignY=60" alt="Jeyaul Hoque" />
 </div>
 
 # Jeyaul Hoque
@@ -59,6 +59,14 @@ My work spans:
 | [smart-clipboard-manager](https://github.com/jeyaulhoquebd/smart-clipboard-manager) | Clipboard automation and management for faster workflows | Python |
 | [bangla-ibus](https://github.com/jeyaulhoquebd/bangla-ibus) | Bangla input support for Linux systems | C |
 | [claude-python-project](https://github.com/jeyaulhoquebd/claude-python-project) | AI-assisted Python learning and experimentation | Python |
+| [appclip-manager](https://github.com/jeyaulhoquebd/appclip-manager) | Browser and clipboard workflow utility for quick actions and productivity | TypeScript |
+| [Jeyatube](https://github.com/jeyaulhoquebd/Jeyatube) | AI-integrated media and content workflow app with modern web tooling | JavaScript · Firebase |
+| [jova-ai-chrome-extension](https://github.com/jeyaulhoquebd/jova-ai-chrome-extension) | AI-powered Chrome extension for browser productivity and automation | JavaScript |
+| [nova-tab-extension](https://github.com/jeyaulhoquebd/nova-tab-extension) | Custom browser tab extension for improved daily workspace access | JavaScript |
+| [kbsjafm_madrashawebst](https://github.com/jeyaulhoquebd/kbsjafm_madrashawebst) | Community and educational web platform for a madrasa foundation | TypeScript |
+| [Problem-solving-with-C](https://github.com/jeyaulhoquebd/Problem-solving-with-C) | C programming exercises and algorithmic problem-solving practice | C |
+| [Problem-solving-with-Python](https://github.com/jeyaulhoquebd/Problem-solving-with-Python) | Python-based problem-solving and learning repository | Python |
+| [Knowledge-Vault-web](https://github.com/jeyaulhoquebd/Knowledge-Vault-web) | Structured knowledge and learning-focused website project | CSS |
 
 ---
 
@@ -71,6 +79,9 @@ My work spans:
 - Job-Application-Tracker
 - Jova AI Chrome Extension
 - appclip-manager
+- Jeyatube
+- kbsjafm_madrashawebst
+- Knowledge-Vault-web
 
 ### Productivity & Browser Tools
 - FocusFlow
@@ -80,6 +91,8 @@ My work spans:
 - feed-hider
 - web-block
 - Job-Application-Tracker
+- jova-ai-chrome-extension
+- nova-tab-extension
 
 ### Linux / System / Utilities
 - ubuntu-system-monitor
@@ -88,6 +101,7 @@ My work spans:
 - smart-clipboard-manager
 - Mobile-py
 - learn-by-building-physics-math
+- Problem-solving-with-C
 
 ### Learning & Experiments
 - Problem-solving-with-Java
@@ -95,6 +109,9 @@ My work spans:
 - php-project
 - learn-by-building-physics-math
 - claude-python-project
+- Problem-solving-with-Python
+- Jeyatube
+- appclip-manager
 
 ---
 
